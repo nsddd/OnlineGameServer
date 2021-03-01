@@ -1,0 +1,9 @@
+E:\PlanAProject\TcpServerProject\MySQLExercise\bin\Debug\MySQLExercise.exe.config
+E:\PlanAProject\TcpServerProject\MySQLExercise\bin\Debug\MySQLExercise.exe
+E:\PlanAProject\TcpServerProject\MySQLExercise\bin\Debug\MySQLExercise.pdb
+E:\PlanAProject\TcpServerProject\MySQLExercise\bin\Debug\MySql.Data.dll
+E:\PlanAProject\TcpServerProject\MySQLExercise\obj\Debug\MySQLExercise.csprojAssemblyReference.cache
+E:\PlanAProject\TcpServerProject\MySQLExercise\obj\Debug\MySQLExercise.csproj.CoreCompileInputs.cache
+E:\PlanAProject\TcpServerProject\MySQLExercise\obj\Debug\MySQLExercise.csproj.CopyComplete
+E:\PlanAProject\TcpServerProject\MySQLExercise\obj\Debug\MySQLExercise.exe
+E:\PlanAProject\TcpServerProject\MySQLExercise\obj\Debug\MySQLExercise.pdb

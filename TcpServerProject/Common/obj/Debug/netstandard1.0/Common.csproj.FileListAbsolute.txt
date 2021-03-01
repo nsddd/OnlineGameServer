@@ -1,0 +1,8 @@
+E:\PlanAProject\TcpServerProject\Common\bin\Debug\netstandard1.0\Common.deps.json
+E:\PlanAProject\TcpServerProject\Common\bin\Debug\netstandard1.0\Common.dll
+E:\PlanAProject\TcpServerProject\Common\bin\Debug\netstandard1.0\Common.pdb
+E:\PlanAProject\TcpServerProject\Common\obj\Debug\netstandard1.0\Common.AssemblyInfoInputs.cache
+E:\PlanAProject\TcpServerProject\Common\obj\Debug\netstandard1.0\Common.AssemblyInfo.cs
+E:\PlanAProject\TcpServerProject\Common\obj\Debug\netstandard1.0\Common.csproj.CoreCompileInputs.cache
+E:\PlanAProject\TcpServerProject\Common\obj\Debug\netstandard1.0\Common.dll
+E:\PlanAProject\TcpServerProject\Common\obj\Debug\netstandard1.0\Common.pdb

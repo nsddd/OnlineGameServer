@@ -1,0 +1,11 @@
+E:\PlanAProject\TcpServerProject\GameServer\bin\Debug\GameServer.exe.config
+E:\PlanAProject\TcpServerProject\GameServer\bin\Debug\GameServer.exe
+E:\PlanAProject\TcpServerProject\GameServer\bin\Debug\GameServer.pdb
+E:\PlanAProject\TcpServerProject\GameServer\bin\Debug\Common.dll
+E:\PlanAProject\TcpServerProject\GameServer\bin\Debug\MySql.Data.dll
+E:\PlanAProject\TcpServerProject\GameServer\bin\Debug\Common.pdb
+E:\PlanAProject\TcpServerProject\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+E:\PlanAProject\TcpServerProject\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+E:\PlanAProject\TcpServerProject\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+E:\PlanAProject\TcpServerProject\GameServer\obj\Debug\GameServer.exe
+E:\PlanAProject\TcpServerProject\GameServer\obj\Debug\GameServer.pdb

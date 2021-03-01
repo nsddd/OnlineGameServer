@@ -1,0 +1,7 @@
+E:\PlanAProject\TcpServerProject\DataConvertBytes\bin\Debug\DataConvertBytes.exe.config
+E:\PlanAProject\TcpServerProject\DataConvertBytes\bin\Debug\DataConvertBytes.exe
+E:\PlanAProject\TcpServerProject\DataConvertBytes\bin\Debug\DataConvertBytes.pdb
+E:\PlanAProject\TcpServerProject\DataConvertBytes\obj\Debug\DataConvertBytes.csprojAssemblyReference.cache
+E:\PlanAProject\TcpServerProject\DataConvertBytes\obj\Debug\DataConvertBytes.csproj.CoreCompileInputs.cache
+E:\PlanAProject\TcpServerProject\DataConvertBytes\obj\Debug\DataConvertBytes.exe
+E:\PlanAProject\TcpServerProject\DataConvertBytes\obj\Debug\DataConvertBytes.pdb

@@ -1,0 +1,6 @@
+E:\PlanAProject\TcpServerProject\SocketClient\bin\Debug\SocketClient.exe.config
+E:\PlanAProject\TcpServerProject\SocketClient\bin\Debug\SocketClient.exe
+E:\PlanAProject\TcpServerProject\SocketClient\bin\Debug\SocketClient.pdb
+E:\PlanAProject\TcpServerProject\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+E:\PlanAProject\TcpServerProject\SocketClient\obj\Debug\SocketClient.exe
+E:\PlanAProject\TcpServerProject\SocketClient\obj\Debug\SocketClient.pdb

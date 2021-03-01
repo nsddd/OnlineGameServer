@@ -1,0 +1,7 @@
+E:\PlanAProject\TcpServerProject\SocketServer\bin\Debug\SocketServer.exe.config
+E:\PlanAProject\TcpServerProject\SocketServer\bin\Debug\SocketServer.exe
+E:\PlanAProject\TcpServerProject\SocketServer\bin\Debug\SocketServer.pdb
+E:\PlanAProject\TcpServerProject\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+E:\PlanAProject\TcpServerProject\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+E:\PlanAProject\TcpServerProject\SocketServer\obj\Debug\SocketServer.exe
+E:\PlanAProject\TcpServerProject\SocketServer\obj\Debug\SocketServer.pdb
